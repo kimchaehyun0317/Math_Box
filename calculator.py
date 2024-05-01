@@ -12,3 +12,6 @@ def divide(a, b):
 
 # 이 글이 보이나여?
 
+
+def say_hello():
+  print{"hello"}
